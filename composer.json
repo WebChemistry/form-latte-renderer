@@ -1,0 +1,11 @@
+{
+	"name": "webchemistry/form-latte-renderer",
+	"autoload": {
+		"psr-4": {
+			"WebChemistry\\FormLatteRenderer\\": "src"
+		}
+	},
+	"require": {
+		"php": ">= 8.0"
+	}
+}
